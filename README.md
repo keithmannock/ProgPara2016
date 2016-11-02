@@ -1,2 +1,2 @@
-# ProgPara2016
-The code repository for the examples from the Programming Paradigms module at Birkbeck, Dept of Computer Science, University of London
+The example source code for the Programming Paradigms module 2016-17 @ Dept of Computer Science, Birkbeck, University of London.
+----------------
