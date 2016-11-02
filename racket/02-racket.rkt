@@ -47,7 +47,7 @@
 (define (deep-reverse-2 lst)
   (cond ((null? lst) empty)
         ((not (pair? lst)) lst)
-        (else (append (deep-reverse (cdr lst)) (list (deep-reverse (car lst)))))))
+        (else (append (deep-reverse-2 (cdr lst)) (list (deep-reverse-2 (car lst)))))))
 
 (define (accumulate op initial sequence)
   (if (null? sequence)
