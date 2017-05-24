@@ -1,3 +1,6 @@
+%% mapreduce.erl
+%%
+%% Informatics 102 Spring 2012
 %% Code Example
 %%
 %% This module exports a single function that implements the MapReduce

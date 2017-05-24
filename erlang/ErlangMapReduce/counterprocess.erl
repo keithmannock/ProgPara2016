@@ -1,3 +1,6 @@
+%% counterprocess.erl
+%%
+%% Informatics 102 Spring 2012
 %% Code Example
 %%
 %% This module implements a "counter" process, which is capable of calculating

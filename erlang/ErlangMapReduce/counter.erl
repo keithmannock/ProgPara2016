@@ -1,5 +1,8 @@
 %% counter.erl
 %% 
+%% Informatics 102 Spring 2012
+%% Code Example
+%%
 %% This module exports a single function that tail-recursively calculates
 %% the sum of the integers from Start to End by adding them up.  (It's not
 %% an efficient way to solve the problem, of course, as it's possible to do

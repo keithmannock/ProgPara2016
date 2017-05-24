@@ -1,3 +1,5 @@
+Implementing MapReduce in Erlang
+Informatics 102 Spring 2010
 Code Example
 --------------------------------
 MapReduce is an algorithm that asks concurrent or distributed tasks -- in
